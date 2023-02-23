@@ -1,0 +1,15 @@
+{
+    "name": "dotengine",
+    "url" : "https://github.com/Witherbear/dotengine",
+    "license": "MIT",
+    "tags": ["game", "cpp", "java", "js", "flash", "mobile", "desktop", "hl"],
+    "description": "DotEngine: Engine made with Haxe.",
+    "version": "1.0.0",
+    "classPath": "src/",
+    "releasenote": "Initial release, everything is working correctly.",
+    "contributors": ["Witherbear"],
+    "dependencies": {
+      "hxcpp": ""
+    },
+    "main": "cli.Main"
+}

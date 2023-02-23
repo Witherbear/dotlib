@@ -1,0 +1,4 @@
+-cp src
+-main Main
+--swf-version 11
+-swf bin/flash/Game.swf
