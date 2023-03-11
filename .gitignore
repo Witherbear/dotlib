@@ -1,4 +1,6 @@
 .vscode/
 List.md
 include/SDL2
+lib/cmake/SDL2
+lib/pkgconfig
 lib/
